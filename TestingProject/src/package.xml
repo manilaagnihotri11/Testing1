@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LPL_Batch_updateNextAnniversaryCon_Sche</members>
+        <members>LPL_Batch_updateNextAnniversaryCon_Test</members>
+        <members>LPL_Batch_updateNextAnniversaryOnContact</members>
+        <name>ApexClass</name>
+    </types>
+    <version>38.0</version>
+</Package>
